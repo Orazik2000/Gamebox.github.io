@@ -60,7 +60,7 @@ body {
 /* Hero Section (Büyük Banner) */
 .hero-section {
     height: 400px;
-    background-image: url(''); /* Buraya kendi yüksek çözünürlüklü banner resminizi ekleyin */
+    background-image: url('cyberpunk.jpg'); /* Buraya kendi yüksek çözünürlüklü banner resminizi ekleyin */
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -182,4 +182,5 @@ body {
     color: #888;
     margin-left: 10px;
     font-size: 0.9em;
+
 }
